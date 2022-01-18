@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="files">
+    <file>miningDown.png</file>
+    <file>mining.png</file>
+  </qresource>
+</RCC>
